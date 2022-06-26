@@ -7,6 +7,10 @@ const connectDatabase = require('./config/database')
 dotenv.config({
     path: './config/config.env'
 });
+
+// addin the parser middleware
+
+app.use(express.json());
 //Connecting to Database
 connectDatabase();
 //importing all routes

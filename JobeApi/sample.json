@@ -1,0 +1,31 @@
+{
+    "location": {
+        "coordinates": [
+            14.055522,
+            78.751016
+        ],
+        "type": "point",
+        "formattedAddress": ", Rayachoti, Andhra Pradesh 516269, IN",
+        "city": "Rayachoti",
+        "zipcode": "516269",
+        "country": null
+    },
+    "industry": [
+        "Tele Communication"
+    ],
+    "position": 10,
+    "lastDate": "2021-07-04T09:49:31.681Z",
+    "_id": "60d86ca7ae95cf3f18822cc4",
+    "title": "Dotnet",
+    "slug": "dotnet-required",
+    "description": "Urgent Requirment",
+    "email": "juhairshaik327@gmail.com",
+    "address": "47/84-D,Bustand Road,Rayachoti",
+    "company": "FreeLancing",
+    "jobType": "Temporary",
+    "minEducation": "Masters",
+    "experiance": "1 year-2 Years",
+    "salary": 15000,
+    "postingDate": "2021-06-27T09:51:55.304Z",
+    "__v": 0
+}
